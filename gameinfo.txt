@@ -1,6 +1,6 @@
 "GameInfo"
 {
-	game			"Pre-Fortress 2 Classic"
+	game			"Alpha Fortress 2"
 	gamelogo 1
 	title 			""
 	title2			""
@@ -10,7 +10,7 @@
 	nocrosshair 	"0"
 	nodegraph		"0"
 	icon			"resource/game"
-	developer		"Concussion Studios/PF2 Team"
+	developer		"What A Source Mod!"
 	developer_url		""
 	manual			""
 	hidden_maps
